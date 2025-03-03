@@ -1,7 +1,7 @@
 # Step 1: Create a GitHub Repository
 1. Go to GitHub and log in.
 2. Click on the "+" sign in the top-right corner and select **"New repository"**.
-3. Give your repository a name, e.g., portfolio.
+3. Give your repository the name "*Username*.github.io"
 4. Choose **"Public"** (so GitHub Pages can access it).
 5. Check **"Add a README file"** (optional but helpful).
 6. Click **"Create repository"**.
